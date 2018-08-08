@@ -1,0 +1,3 @@
+compile >>> gcc game.c board.c main.c -o main.o
+
+run >>> ./main.o
